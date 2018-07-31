@@ -10,7 +10,7 @@ using Quartz.Impl;
 namespace TestQuarzNet.Service
 {
     public class ScheduleBase
-    {
+    { 
         private static IScheduler _scheduler;
         public static IScheduler Scheduler
         {
@@ -30,7 +30,7 @@ namespace TestQuarzNet.Service
 
                 // 远程输出配置
                 properties["quartz.scheduler.exporter.type"] = "Quartz.Simpl.RemotingSchedulerExporter, Quartz";
-                properties["quartz.scheduler.exporter.port"] = "8008";
+                properties["quartz.scheduler.exporter.port"] = "8007";
                 properties["quartz.scheduler.exporter.bindName"] = "QuartzScheduler";
                 properties["quartz.scheduler.exporter.channelType"] = "tcp";
 

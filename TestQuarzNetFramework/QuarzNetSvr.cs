@@ -1,31 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Diagnostics;
 using System.Linq;
 using System.Reflection;
-using System.ServiceProcess;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using log4net;
-using Quartz;
-using Quartz.Impl;
-using Quartz.Spi;
 using TestQuarzNet.Service;
 using TestQuarzNet.Service.Log;
 using TestQuarzNet.Service.Time;
 
-namespace TestQuarzNetWin
+namespace TestQuarzNetFramework
 {
-    public partial class QuarzNetSvr : ServiceBase
+    public class QuarzNetSvr
     {
         public static ILog Logger = LogManager.GetLogger(MethodBase.GetCurrentMethod().DeclaringType);
-        public QuarzNetSvr()
-        {
-            InitializeComponent();
-        }
-        protected override void OnStart(string[] args)
+        public void OnStart()
         {
             Logger.Info("OnStart()");
             try
@@ -41,7 +31,7 @@ namespace TestQuarzNetWin
                 Logger.Error("TestQuarzNetWin异常", ex);
             }
         }
-        protected override void OnStop()
+        public void OnStop()
         {
             Logger.Info("OnOnStop()");
             ScheduleBase.Scheduler.Shutdown(true);

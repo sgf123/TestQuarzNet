@@ -1,17 +1,20 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.ServiceProcess;
-using System.Text;
+using System.Reflection;
 using System.Threading;
 using System.Threading.Tasks;
+using log4net;
+using log4net.Repository.Hierarchy;
+using TestQuarzNet.Service;
+using Topshelf;
 using static System.Console;
 
 namespace TestQuarzNetFramework
 {
     class Program
     {
-        static void Main(string[] args)
+        public static ILog Logger = LogManager.GetLogger(MethodBase.GetCurrentMethod().DeclaringType);
+        //测试Task
+        static void Main2(string[] args)
         {
             try
             {
@@ -32,6 +35,26 @@ namespace TestQuarzNetFramework
                 WriteLine("Exception外部" + e.Message);
             }
             ReadKey();
+        }
+        //测试Topshelf
+        static void Main(string[] args)
+        {
+            var rc = HostFactory.Run(x =>
+            {
+                x.Service<QuarzNetSvr>(s =>
+                {
+                    s.ConstructUsing(name => new QuarzNetSvr());
+                    s.WhenStarted(tc => tc.OnStart());
+                    s.WhenStopped(tc => tc.OnStop());
+                });
+                x.RunAsLocalSystem();
+                x.SetDescription("测试TopShelf安装部署系统服务");
+                x.SetDisplayName("TopShelf");
+                x.SetServiceName("TopShelf"); 
+            });
+            var exitCode = (int)Convert.ChangeType(rc, rc.GetTypeCode());
+            Environment.ExitCode = exitCode;
+
         }
     }
 }
