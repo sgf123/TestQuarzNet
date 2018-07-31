@@ -9,16 +9,13 @@ namespace TestQuarzNet.Service.Time
 {
     public class TimeService : JobService<TimeJob>
     {
-        private const int IntervalInSeconds = 1 * 60;
-        protected override string GroupName => "每隔1分钟记录当前时间处理"; 
-        protected override string JobName => "每隔1分钟记录当前时间"; 
+        protected override string GroupName => "每隔30秒记录当前时间处理";
+        protected override string JobName => "每隔30秒记录当前时间";
         protected override ITrigger GetTrigger()
         {
             var trigger = TriggerBuilder.Create()
-                .WithIdentity("每隔1分钟记录当前时间", "作业触发器")
-                .WithSimpleSchedule(x => x
-                    .WithIntervalInSeconds(IntervalInSeconds)
-                    .RepeatForever())
+                .WithIdentity("记录时间", "作业触发器")
+                .WithCronSchedule("0/30 * * * * ?")
                 .Build();
             return trigger;
         }

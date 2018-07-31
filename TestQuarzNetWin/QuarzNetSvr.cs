@@ -13,6 +13,7 @@ using Quartz;
 using Quartz.Impl;
 using Quartz.Spi;
 using TestQuarzNet.Service;
+using TestQuarzNet.Service.Log;
 using TestQuarzNet.Service.Time;
 
 namespace TestQuarzNetWin
@@ -29,21 +30,16 @@ namespace TestQuarzNetWin
             Logger.Info("OnStart()");
             try
             {
-                ////开启调度器
-                //ScheduleBase.Scheduler.Start();
-                ////把作业，触发器加入调度器
-                //ScheduleBase.AddSchedule();
-                //调度器构造工厂
-                ISchedulerFactory factory = new StdSchedulerFactory();
-
-                //第一步：构造调度器
-                IScheduler scheduler = factory.GetScheduler().Result;
-                scheduler.Start();//启动调度器
+                //开启调度器
+                ScheduleBase.Scheduler.Start();
+                //把作业，触发器加入调度器
+                ScheduleBase.AddSchedule(new TimeService()); 
+                ScheduleBase.AddSchedule(new LogService());
             }
             catch (Exception ex)
             {
                 Logger.Error("TestQuarzNetWin异常", ex);
-            } 
+            }
         }
         protected override void OnStop()
         {

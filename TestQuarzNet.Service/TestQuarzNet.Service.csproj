@@ -49,6 +49,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="JobService.cs" />
+    <Compile Include="Log\LogJob.cs" />
+    <Compile Include="Log\LogService.cs" />
     <Compile Include="ScheduleBase.cs" />
     <Compile Include="Time\TimeJob.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

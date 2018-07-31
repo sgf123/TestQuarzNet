@@ -44,14 +44,5 @@ namespace TestQuarzNet.Service
         {
             service.AddJobToSchedule(Scheduler);
         }
-        public static void AddSchedule()
-        {
-
-            var factory = new StdSchedulerFactory(new System.Collections.Specialized.NameValueCollection() 
-                            {
-                                  {"quartz.plugin.xml.fileNames","~/quartz_jobs.xml" },
-                                    {"quartz.plugin.xml.type","Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin,Quartz"}
-                                 });
-        }
     }
 }
