@@ -21,7 +21,7 @@ namespace TestQuarzNet.Service
                     return _scheduler;
                 }
                 var properties = new NameValueCollection();
-                properties["quartz.scheduler.instanceName"] = "吉利后台作业监控系统";
+                properties["quartz.scheduler.instanceName"] = "后台作业监控系统";
 
                 // 设置线程池
                 properties["quartz.threadPool.type"] = "Quartz.Simpl.SimpleThreadPool, Quartz";

@@ -37,7 +37,7 @@ namespace TestQuarzNetFramework
             ReadKey();
         }
         //测试Topshelf
-        static void Main(string[] args)
+        static void Main3(string[] args)
         {
             var rc = HostFactory.Run(x =>
             {
@@ -55,6 +55,25 @@ namespace TestQuarzNetFramework
             var exitCode = (int)Convert.ChangeType(rc, rc.GetTypeCode());
             Environment.ExitCode = exitCode;
 
+        }
+        //测试使用配置文件方式
+        static void Main(string[] args)
+        {
+            var rc = HostFactory.Run(x =>
+            {
+                x.Service<QuarzNetSvr>(s =>
+                {
+                    s.ConstructUsing(name => new QuarzNetSvr());
+                    s.WhenStarted(tc => tc.OnStart());
+                    s.WhenStopped(tc => tc.OnStop());
+                });
+                x.RunAsLocalSystem();
+                x.SetDescription("测试TopShelf安装部署系统服务");
+                x.SetDisplayName("TopShelf");
+                x.SetServiceName("TopShelf");
+            });
+            var exitCode = (int)Convert.ChangeType(rc, rc.GetTypeCode());
+            Environment.ExitCode = exitCode;
         }
     }
 }

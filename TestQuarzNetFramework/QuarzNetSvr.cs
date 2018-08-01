@@ -21,10 +21,10 @@ namespace TestQuarzNetFramework
             try
             {
                 //开启调度器
-                ScheduleBase.Scheduler.Start();
+                ScheduleBaseByXml.Scheduler.Start();
                 //把作业，触发器加入调度器
-                ScheduleBase.AddSchedule(new TimeService());
-                ScheduleBase.AddSchedule(new LogService());
+                //ScheduleBaseByXml.AddSchedule(new TimeService());
+                //ScheduleBaseByXml.AddSchedule(new LogService());
             }
             catch (Exception ex)
             {
