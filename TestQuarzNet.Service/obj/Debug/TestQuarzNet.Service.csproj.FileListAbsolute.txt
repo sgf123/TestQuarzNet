@@ -1,0 +1,15 @@
+E:\git\QuarzNet\TestQuarzNet\TestQuarzNet.Service\bin\Debug\TestQuarzNet.Service.dll
+E:\git\QuarzNet\TestQuarzNet\TestQuarzNet.Service\bin\Debug\TestQuarzNet.Service.pdb
+E:\git\QuarzNet\TestQuarzNet\TestQuarzNet.Service\bin\Debug\log4net.dll
+E:\git\QuarzNet\TestQuarzNet\TestQuarzNet.Service\bin\Debug\Quartz.dll
+E:\git\QuarzNet\TestQuarzNet\TestQuarzNet.Service\bin\Debug\log4net.xml
+E:\git\QuarzNet\TestQuarzNet\TestQuarzNet.Service\bin\Debug\Quartz.pdb
+E:\git\QuarzNet\TestQuarzNet\TestQuarzNet.Service\bin\Debug\Quartz.xml
+E:\git\QuarzNet\TestQuarzNet\TestQuarzNet.Service\obj\Debug\TestQuarzNet.Service.csproj.CoreCompileInputs.cache
+E:\git\QuarzNet\TestQuarzNet\TestQuarzNet.Service\obj\Debug\TestQuarzNet.Service.csproj.CopyComplete
+E:\git\QuarzNet\TestQuarzNet\TestQuarzNet.Service\obj\Debug\TestQuarzNet.Service.dll
+E:\git\QuarzNet\TestQuarzNet\TestQuarzNet.Service\obj\Debug\TestQuarzNet.Service.pdb
+E:\git\QuarzNet\TestQuarzNet\TestQuarzNet.Service\bin\Debug\TestQuarzNet.Service.dll.config
+E:\git\QuarzNet\TestQuarzNet\TestQuarzNet.Service\bin\Debug\slf4net.dll
+E:\git\QuarzNet\TestQuarzNet\TestQuarzNet.Service\bin\Debug\slf4net.xml
+E:\git\QuarzNet\TestQuarzNet\TestQuarzNet.Service\obj\Debug\TestQuarzNet.Service.csprojAssemblyReference.cache

@@ -1,0 +1,583 @@
+INFO  2018-08-01 16:27:04,195 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:04
+
+DEBUG 2018-08-01 16:27:04,238 [11   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:04,197 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:05,188 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:05,193 [11   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:05,195 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:05
+
+DEBUG 2018-08-01 16:27:05,196 [11   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:05,206 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:06,192 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:06,196 [11   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:06,197 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:06
+
+DEBUG 2018-08-01 16:27:06,199 [11   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:06,196 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:07,219 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:07,220 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:07,226 [11   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:07,227 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:07
+
+DEBUG 2018-08-01 16:27:07,229 [11   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:08,187 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:08,194 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:08,205 [11   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:08,206 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:08
+
+DEBUG 2018-08-01 16:27:08,208 [11   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:09,192 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:09,194 [11   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:09,196 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:09
+
+DEBUG 2018-08-01 16:27:09,198 [11   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:09,203 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:10,192 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:10,196 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:10,200 [11   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:10,209 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:10
+
+DEBUG 2018-08-01 16:27:10,210 [11   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:11,189 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:11,191 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:11,205 [11   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:11,207 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:11
+
+DEBUG 2018-08-01 16:27:11,209 [4    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:12,196 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:12,201 [11   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:12,203 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:12
+
+DEBUG 2018-08-01 16:27:12,203 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:12,205 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:13,225 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:13,227 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:13,227 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:13,231 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:13
+
+DEBUG 2018-08-01 16:27:13,233 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:14,196 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:14,198 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:14,226 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:14
+
+DEBUG 2018-08-01 16:27:14,227 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:14,199 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:15,193 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:15,195 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:15,196 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:15,198 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:15
+
+DEBUG 2018-08-01 16:27:15,199 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:16,188 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:16,190 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:16,191 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:16
+
+DEBUG 2018-08-01 16:27:16,193 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:16,217 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:17,200 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:17,205 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:17,208 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:17,215 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:17
+
+DEBUG 2018-08-01 16:27:17,219 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:18,187 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:18,189 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:18,190 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:18
+
+DEBUG 2018-08-01 16:27:18,192 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:18,189 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:19,189 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:19,196 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:19,197 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:19
+
+DEBUG 2018-08-01 16:27:19,196 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:19,203 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:20,192 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:20,195 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:20,204 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:20
+
+DEBUG 2018-08-01 16:27:20,206 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:20,196 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:21,187 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:21,206 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:21,207 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:21
+
+DEBUG 2018-08-01 16:27:21,210 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:21,226 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:22,203 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:22,206 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:22,209 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:22
+
+DEBUG 2018-08-01 16:27:22,211 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:22,213 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:23,191 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:23,199 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:23,200 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:23
+
+DEBUG 2018-08-01 16:27:23,202 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:23,203 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:24,185 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:24,186 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:24,188 [11   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:24,188 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:24
+
+DEBUG 2018-08-01 16:27:24,189 [11   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:25,189 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:25,190 [11   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:25,191 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:25
+
+DEBUG 2018-08-01 16:27:25,190 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:25,191 [11   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:26,189 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:26,191 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:26,194 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:26
+
+DEBUG 2018-08-01 16:27:26,197 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:26,199 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:27,196 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:27,198 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:27,200 [4    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:27,201 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:27
+
+DEBUG 2018-08-01 16:27:27,207 [4    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:28,194 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:28,196 [4    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:28,197 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:28
+
+DEBUG 2018-08-01 16:27:28,200 [4    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:28,208 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:29,194 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:29,196 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:29,201 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:29
+
+DEBUG 2018-08-01 16:27:29,204 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:29,216 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:30,196 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:30,202 [9    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:30,203 [9    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:30
+
+DEBUG 2018-08-01 16:27:30,206 [9    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:30,208 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:31,193 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:31,197 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:31,200 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:31
+
+DEBUG 2018-08-01 16:27:31,203 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:31,206 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:32,187 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:32,189 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:32,192 [4    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:32,193 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:32
+
+DEBUG 2018-08-01 16:27:32,194 [4    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:33,185 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:33,186 [4    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:33,187 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:33
+
+DEBUG 2018-08-01 16:27:33,189 [4    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:33,197 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:34,186 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:34,189 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:34,189 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:34,208 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:34
+
+DEBUG 2018-08-01 16:27:34,211 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:35,187 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:35,190 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+DEBUG 2018-08-01 16:27:35,195 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+INFO  2018-08-01 16:27:35,196 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:35
+
+DEBUG 2018-08-01 16:27:35,201 [11   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:36,187 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:36,192 [11   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:36,193 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:36
+
+DEBUG 2018-08-01 16:27:36,199 [11   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:36,201 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:37,196 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:37,198 [11   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:37,200 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:37
+
+DEBUG 2018-08-01 16:27:37,202 [11   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:37,204 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:38,194 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:38,196 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:38,196 [9    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:38,199 [9    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:38
+
+DEBUG 2018-08-01 16:27:38,205 [9    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:39,196 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:39,199 [9    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:39,200 [9    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:39
+
+DEBUG 2018-08-01 16:27:39,204 [9    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:39,228 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:40,196 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:40,198 [9    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:40,201 [9    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:40
+
+DEBUG 2018-08-01 16:27:40,207 [9    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:40,202 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:41,186 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:41,188 [9    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:41,189 [9    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:41
+
+DEBUG 2018-08-01 16:27:41,190 [9    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:41,188 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:42,192 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:42,196 [9    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:42,197 [9    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:42
+
+DEBUG 2018-08-01 16:27:42,208 [9    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:42,197 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:43,192 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:43,195 [9    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:43,197 [9    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:43
+
+DEBUG 2018-08-01 16:27:43,198 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:43,199 [9    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:44,187 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:44,189 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:44,189 [9    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:44,193 [9    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:44
+
+DEBUG 2018-08-01 16:27:44,195 [9    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:45,185 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:45,186 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:45,187 [9    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:45,190 [9    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:45
+
+DEBUG 2018-08-01 16:27:45,190 [9    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:46,185 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:46,186 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:46,189 [4    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:46,205 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:46
+
+DEBUG 2018-08-01 16:27:46,206 [4    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:47,185 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:47,187 [4    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:47,188 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:47
+
+DEBUG 2018-08-01 16:27:47,189 [4    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:47,187 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:48,199 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:48,203 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:48,211 [4    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:48,212 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:48
+
+DEBUG 2018-08-01 16:27:48,214 [4    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:49,190 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:49,194 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:49,195 [4    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:49,197 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:49
+
+DEBUG 2018-08-01 16:27:49,200 [4    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:50,195 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:50,196 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:50,197 [4    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:50,199 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:50
+
+DEBUG 2018-08-01 16:27:50,205 [4    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:51,196 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:51,199 [9    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:51,201 [9    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:51
+
+DEBUG 2018-08-01 16:27:51,203 [9    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:51,245 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:52,188 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:52,190 [9    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:52,191 [9    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:52
+
+DEBUG 2018-08-01 16:27:52,193 [9    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:52,194 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:53,188 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:53,190 [9    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:53,195 [9    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:53
+
+DEBUG 2018-08-01 16:27:53,197 [9    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:53,200 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:54,185 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:54,187 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:54,189 [9    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:54,192 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:54
+
+DEBUG 2018-08-01 16:27:54,193 [11   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:55,186 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:55,188 [9    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:55,189 [9    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:55
+
+DEBUG 2018-08-01 16:27:55,191 [9    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:55,193 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:56,200 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:56,206 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:56,227 [11   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:56,228 [9    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:56
+
+DEBUG 2018-08-01 16:27:56,231 [9    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:57,194 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:57,197 [11   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:57,198 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:57
+
+DEBUG 2018-08-01 16:27:57,203 [11   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:57,199 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:58,188 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:58,190 [11   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:58,191 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:58
+
+DEBUG 2018-08-01 16:27:58,192 [11   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:58,193 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:27:59,187 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:27:59,189 [11   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:27:59,190 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:27:59
+
+DEBUG 2018-08-01 16:27:59,192 [11   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:27:59,189 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:00,301 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:00,303 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:00,309 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:00,310 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:00
+
+DEBUG 2018-08-01 16:28:00,312 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:01,185 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:01,187 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:01,189 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:01,190 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:01
+
+DEBUG 2018-08-01 16:28:01,192 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:02,189 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:02,191 [4    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:02,192 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:02
+
+DEBUG 2018-08-01 16:28:02,191 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:02,193 [4    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:03,185 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:03,186 [11   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:03,187 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:03
+
+DEBUG 2018-08-01 16:28:03,188 [11   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:03,186 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:04,185 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:04,186 [4    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:04,187 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:04
+
+DEBUG 2018-08-01 16:28:04,187 [4    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:04,186 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:05,217 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:05,220 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:05,223 [11   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:05,224 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:05
+
+DEBUG 2018-08-01 16:28:05,227 [11   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:06,187 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:06,191 [4    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:06,195 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:06
+
+DEBUG 2018-08-01 16:28:06,197 [4    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:06,192 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:07,186 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:07,192 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:07,194 [9    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:07,195 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:07
+
+DEBUG 2018-08-01 16:28:07,198 [11   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:08,204 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:08,208 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:08,208 [4    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:08,212 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:08
+
+DEBUG 2018-08-01 16:28:08,213 [4    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:09,191 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:09,193 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:09,195 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:09
+
+DEBUG 2018-08-01 16:28:09,198 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:09,193 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:10,192 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:10,195 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:10,196 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:10
+
+DEBUG 2018-08-01 16:28:10,199 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:10,219 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:11,194 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:11,198 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:11,199 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:11
+
+DEBUG 2018-08-01 16:28:11,202 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:11,198 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:12,190 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:12,197 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:12,199 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:12
+
+DEBUG 2018-08-01 16:28:12,201 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:12,203 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:13,187 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:13,190 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:13,191 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:13
+
+DEBUG 2018-08-01 16:28:13,193 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:13,198 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:14,185 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:14,187 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:14,189 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:14
+
+DEBUG 2018-08-01 16:28:14,189 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:14,193 [11   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:15,190 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:15,193 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:15,197 [4    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:15,198 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:15
+
+DEBUG 2018-08-01 16:28:15,200 [4    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:16,191 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:16,196 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:16,198 [4    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:16,200 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:16
+
+DEBUG 2018-08-01 16:28:16,205 [4    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:17,187 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:17,188 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:17,190 [4    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:17,191 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:17
+
+DEBUG 2018-08-01 16:28:17,192 [4    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:18,194 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:18,195 [11   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:18,196 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:18
+
+DEBUG 2018-08-01 16:28:18,195 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:18,198 [11   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:19,190 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:19,192 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:19,192 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:19,195 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:19
+
+DEBUG 2018-08-01 16:28:19,199 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:20,187 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:20,190 [11   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:20,192 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:20
+
+DEBUG 2018-08-01 16:28:20,200 [11   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:20,202 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:21,189 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:21,191 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:21,193 [4    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:21,198 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:21
+
+DEBUG 2018-08-01 16:28:21,199 [4    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:22,187 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:22,191 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:22,192 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:22
+
+DEBUG 2018-08-01 16:28:22,191 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:22,201 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:23,187 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:23,189 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:23,191 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:23,192 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:23
+
+DEBUG 2018-08-01 16:28:23,195 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:24,188 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:24,190 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:24,201 [4    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:24,211 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:24
+
+DEBUG 2018-08-01 16:28:24,214 [4    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:25,192 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:25,200 [9    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:25,202 [9    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:25
+
+DEBUG 2018-08-01 16:28:25,206 [9    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:25,208 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:26,187 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:26,190 [9    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:26,191 [9    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:26
+
+DEBUG 2018-08-01 16:28:26,196 [9    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:26,191 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:27,191 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:27,193 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:27,196 [11   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:27,198 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:27
+
+DEBUG 2018-08-01 16:28:27,204 [11   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:28,186 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:28,188 [4    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:28,189 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:28
+
+DEBUG 2018-08-01 16:28:28,190 [4    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:28,188 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:29,185 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:29,186 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:29,186 [4    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:29,188 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:29
+
+DEBUG 2018-08-01 16:28:29,189 [4    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:30,208 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:30,213 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:30,214 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:30
+
+DEBUG 2018-08-01 16:28:30,216 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:30,218 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:31,188 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:31,190 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:31,191 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:31
+
+DEBUG 2018-08-01 16:28:31,193 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:31,198 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:32,187 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:32,190 [9    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:32,191 [9    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:32
+
+DEBUG 2018-08-01 16:28:32,193 [9    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:32,199 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:33,187 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:33,193 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:33,194 [4    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:33,196 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:33
+
+DEBUG 2018-08-01 16:28:33,199 [4    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:34,192 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:34,194 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:34,196 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:34
+
+DEBUG 2018-08-01 16:28:34,198 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:34,218 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:35,187 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:35,195 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:35,195 [11   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:35,199 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:35
+
+DEBUG 2018-08-01 16:28:35,202 [11   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:36,190 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:36,193 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:36,194 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:36
+
+DEBUG 2018-08-01 16:28:36,196 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:36,198 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:37,190 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:37,193 [9    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:37,194 [9    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:37
+
+DEBUG 2018-08-01 16:28:37,197 [9    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:37,199 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:38,190 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:38,192 [10   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:38,193 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:38
+
+DEBUG 2018-08-01 16:28:38,196 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:38,206 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-08-01 16:28:39,188 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:39,190 [11   ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:39,191 [10   ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:39
+
+DEBUG 2018-08-01 16:28:39,193 [10   ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-08-01 16:28:39,190 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+INFO  2018-08-01 16:28:40,131 [10   ] TestQuarzNetFramework.QuarzNetSvr - OnOnStop()
+INFO  2018-08-01 16:28:40,159 [10   ] Quartz.Core.QuartzScheduler - Scheduler 后台作业监控系统_$_NON_CLUSTERED shutting down.
+INFO  2018-08-01 16:28:40,172 [10   ] Quartz.Core.QuartzScheduler - Scheduler 后台作业监控系统_$_NON_CLUSTERED paused.
+DEBUG 2018-08-01 16:28:40,191 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job 'sampleGroup.sampleJob', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-08-01 16:28:40,207 [5    ] Quartz.Simpl.TaskSchedulingThreadPool - Shutting down threadpool...
+DEBUG 2018-08-01 16:28:40,208 [5    ] Quartz.Simpl.TaskSchedulingThreadPool - Waiting for 1 threads to complete.
+DEBUG 2018-08-01 16:28:40,211 [9    ] Quartz.Core.JobRunShell - Calling Execute on job sampleGroup.sampleJob
+INFO  2018-08-01 16:28:40,212 [9    ] TestQuarzNet.Service.Time.TimeJob - 2018/8/1 16:28:40
+

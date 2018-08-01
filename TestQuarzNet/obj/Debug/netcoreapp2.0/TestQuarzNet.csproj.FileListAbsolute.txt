@@ -1,0 +1,8 @@
+E:\git\QuarzNet\TestQuarzNet\TestQuarzNet\bin\Debug\netcoreapp2.0\TestQuarzNet.deps.json
+E:\git\QuarzNet\TestQuarzNet\TestQuarzNet\bin\Debug\netcoreapp2.0\TestQuarzNet.runtimeconfig.json
+E:\git\QuarzNet\TestQuarzNet\TestQuarzNet\bin\Debug\netcoreapp2.0\TestQuarzNet.runtimeconfig.dev.json
+E:\git\QuarzNet\TestQuarzNet\TestQuarzNet\bin\Debug\netcoreapp2.0\TestQuarzNet.dll
+E:\git\QuarzNet\TestQuarzNet\TestQuarzNet\obj\Debug\netcoreapp2.0\TestQuarzNet.csprojAssemblyReference.cache
+E:\git\QuarzNet\TestQuarzNet\TestQuarzNet\obj\Debug\netcoreapp2.0\TestQuarzNet.csproj.CoreCompileInputs.cache
+E:\git\QuarzNet\TestQuarzNet\TestQuarzNet\obj\Debug\netcoreapp2.0\TestQuarzNet.AssemblyInfoInputs.cache
+E:\git\QuarzNet\TestQuarzNet\TestQuarzNet\obj\Debug\netcoreapp2.0\TestQuarzNet.AssemblyInfo.cs

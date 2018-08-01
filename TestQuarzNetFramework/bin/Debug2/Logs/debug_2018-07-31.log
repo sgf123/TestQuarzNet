@@ -1,0 +1,86 @@
+INFO  2018-07-31 17:07:03,564 [4    ] TestQuarzNetFramework.QuarzNetSvr - OnStart()
+WARN  2018-07-31 17:07:03,885 [4    ] Quartz.Simpl.TaskSchedulingThreadPool - Thread priority is no longer supported for thread pool, ignoring
+DEBUG 2018-07-31 17:07:03,925 [4    ] Quartz.Simpl.TaskSchedulingThreadPool - TaskSchedulingThreadPool configured with max concurrency of 5 and TaskScheduler ThreadPoolTaskScheduler.
+INFO  2018-07-31 17:07:03,957 [4    ] Quartz.Core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+INFO  2018-07-31 17:07:03,966 [4    ] Quartz.Core.QuartzScheduler - Quartz Scheduler v.3.0.6.0 created.
+INFO  2018-07-31 17:07:03,970 [4    ] Quartz.Simpl.RAMJobStore - RAMJobStore initialized.
+INFO  2018-07-31 17:07:04,004 [4    ] Quartz.Simpl.RemotingSchedulerExporter - Remoting is allowing remote calls
+INFO  2018-07-31 17:07:04,005 [4    ] Quartz.Simpl.RemotingSchedulerExporter - Registering remoting channel of type 'System.Runtime.Remoting.Channels.Tcp.TcpChannel' to port (8008) with name (http)
+INFO  2018-07-31 17:07:04,006 [4    ] Quartz.Simpl.RemotingSchedulerExporter - Remoting channel registered successfully
+INFO  2018-07-31 17:07:04,008 [4    ] Quartz.Simpl.RemotingSchedulerExporter - Successfully marshalled remotable scheduler under name 'QuartzScheduler'
+INFO  2018-07-31 17:07:04,015 [4    ] Quartz.Core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v3.0.6.0) '吉利后台作业监控系统' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - access via remote invocation.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 5 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+INFO  2018-07-31 17:07:04,016 [4    ] Quartz.Impl.StdSchedulerFactory - Quartz scheduler '吉利后台作业监控系统' initialized
+INFO  2018-07-31 17:07:04,017 [4    ] Quartz.Impl.StdSchedulerFactory - Quartz scheduler version: 3.0.6.0
+INFO  2018-07-31 17:07:04,039 [4    ] Quartz.Core.QuartzScheduler - Scheduler 吉利后台作业监控系统_$_NON_CLUSTERED started.
+DEBUG 2018-07-31 17:07:04,048 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 0 triggers
+DEBUG 2018-07-31 17:07:04,227 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-07-31 17:07:04,237 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-07-31 17:07:20,036 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job '每隔20秒拉取日志处理.每隔20秒拉取日志', class=TestQuarzNet.Service.Log.LogJob
+DEBUG 2018-07-31 17:07:20,054 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-07-31 17:07:20,118 [6    ] Quartz.Core.JobRunShell - Calling Execute on job 每隔20秒拉取日志处理.每隔20秒拉取日志
+INFO  2018-07-31 17:07:20,155 [4    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 17:07:20
+DEBUG 2018-07-31 17:07:20,171 [4    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-07-31 17:07:30,009 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job '每隔30秒记录当前时间处理.每隔30秒记录当前时间', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-07-31 17:07:30,017 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-07-31 17:07:30,019 [9    ] Quartz.Core.JobRunShell - Calling Execute on job 每隔30秒记录当前时间处理.每隔30秒记录当前时间
+INFO  2018-07-31 17:07:30,027 [6    ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 17:07:30
+
+DEBUG 2018-07-31 17:07:30,029 [6    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-07-31 17:07:40,011 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job '每隔20秒拉取日志处理.每隔20秒拉取日志', class=TestQuarzNet.Service.Log.LogJob
+DEBUG 2018-07-31 17:07:40,013 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-07-31 17:07:40,013 [9    ] Quartz.Core.JobRunShell - Calling Execute on job 每隔20秒拉取日志处理.每隔20秒拉取日志
+INFO  2018-07-31 17:07:40,017 [9    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 17:07:40
+DEBUG 2018-07-31 17:07:40,019 [9    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-07-31 17:08:00,005 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job '每隔30秒记录当前时间处理.每隔30秒记录当前时间', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-07-31 17:08:00,011 [9    ] Quartz.Core.JobRunShell - Calling Execute on job 每隔30秒记录当前时间处理.每隔30秒记录当前时间
+INFO  2018-07-31 17:08:00,012 [9    ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 17:08:00
+
+DEBUG 2018-07-31 17:08:00,011 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-07-31 17:08:00,013 [9    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-07-31 17:08:00,019 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job '每隔20秒拉取日志处理.每隔20秒拉取日志', class=TestQuarzNet.Service.Log.LogJob
+DEBUG 2018-07-31 17:08:00,025 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-07-31 17:08:00,079 [9    ] Quartz.Core.JobRunShell - Calling Execute on job 每隔20秒拉取日志处理.每隔20秒拉取日志
+INFO  2018-07-31 17:08:00,079 [9    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 17:08:00
+DEBUG 2018-07-31 17:08:00,080 [9    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-07-31 17:08:20,007 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job '每隔20秒拉取日志处理.每隔20秒拉取日志', class=TestQuarzNet.Service.Log.LogJob
+DEBUG 2018-07-31 17:08:20,008 [6    ] Quartz.Core.JobRunShell - Calling Execute on job 每隔20秒拉取日志处理.每隔20秒拉取日志
+INFO  2018-07-31 17:08:20,009 [6    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 17:08:20
+DEBUG 2018-07-31 17:08:20,008 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-07-31 17:08:20,011 [6    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-07-31 17:08:30,008 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job '每隔30秒记录当前时间处理.每隔30秒记录当前时间', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-07-31 17:08:30,010 [6    ] Quartz.Core.JobRunShell - Calling Execute on job 每隔30秒记录当前时间处理.每隔30秒记录当前时间
+INFO  2018-07-31 17:08:30,011 [6    ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 17:08:30
+
+DEBUG 2018-07-31 17:08:30,012 [6    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-07-31 17:08:30,010 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-07-31 17:08:40,006 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job '每隔20秒拉取日志处理.每隔20秒拉取日志', class=TestQuarzNet.Service.Log.LogJob
+DEBUG 2018-07-31 17:08:40,008 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-07-31 17:08:40,009 [6    ] Quartz.Core.JobRunShell - Calling Execute on job 每隔20秒拉取日志处理.每隔20秒拉取日志
+INFO  2018-07-31 17:08:40,010 [9    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 17:08:40
+DEBUG 2018-07-31 17:08:40,012 [9    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-07-31 17:09:00,007 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job '每隔30秒记录当前时间处理.每隔30秒记录当前时间', class=TestQuarzNet.Service.Time.TimeJob
+DEBUG 2018-07-31 17:09:00,009 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-07-31 17:09:00,010 [9    ] Quartz.Core.JobRunShell - Calling Execute on job 每隔30秒记录当前时间处理.每隔30秒记录当前时间
+INFO  2018-07-31 17:09:00,011 [9    ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 17:09:00
+
+DEBUG 2018-07-31 17:09:00,013 [9    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+DEBUG 2018-07-31 17:09:00,017 [5    ] Quartz.Simpl.SimpleJobFactory - Producing instance of Job '每隔20秒拉取日志处理.每隔20秒拉取日志', class=TestQuarzNet.Service.Log.LogJob
+DEBUG 2018-07-31 17:09:00,019 [5    ] Quartz.Core.QuartzSchedulerThread - Batch acquisition of 1 triggers
+DEBUG 2018-07-31 17:09:00,029 [9    ] Quartz.Core.JobRunShell - Calling Execute on job 每隔20秒拉取日志处理.每隔20秒拉取日志
+INFO  2018-07-31 17:09:00,030 [9    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 17:09:00
+DEBUG 2018-07-31 17:09:00,031 [9    ] Quartz.Core.JobRunShell - Trigger instruction : NoInstruction
+INFO  2018-07-31 17:09:02,527 [9    ] TestQuarzNetFramework.QuarzNetSvr - OnOnStop()
+INFO  2018-07-31 17:09:02,540 [9    ] Quartz.Core.QuartzScheduler - Scheduler 吉利后台作业监控系统_$_NON_CLUSTERED shutting down.
+INFO  2018-07-31 17:09:02,547 [9    ] Quartz.Core.QuartzScheduler - Scheduler 吉利后台作业监控系统_$_NON_CLUSTERED paused.
+DEBUG 2018-07-31 17:09:02,562 [5    ] Quartz.Simpl.TaskSchedulingThreadPool - Shutting down threadpool...
+DEBUG 2018-07-31 17:09:02,562 [5    ] Quartz.Simpl.TaskSchedulingThreadPool - Waiting for 0 threads to complete.
+DEBUG 2018-07-31 17:09:02,563 [5    ] Quartz.Simpl.TaskSchedulingThreadPool - No executing jobs remaining, all threads stopped.
+DEBUG 2018-07-31 17:09:02,563 [5    ] Quartz.Simpl.TaskSchedulingThreadPool - Shutdown of threadpool complete.
+INFO  2018-07-31 17:09:02,572 [5    ] Quartz.Simpl.RemotingSchedulerExporter - Successfully disconnected remotable scheduler

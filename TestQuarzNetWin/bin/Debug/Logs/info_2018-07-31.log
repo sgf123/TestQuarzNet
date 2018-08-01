@@ -1,0 +1,299 @@
+INFO  2018-07-31 15:23:22,672 [4    ] TestQuarzNetWin.QuarzNetSvr - OnStart()
+WARN  2018-07-31 15:23:23,053 [4    ] Quartz.Simpl.TaskSchedulingThreadPool - Thread priority is no longer supported for thread pool, ignoring
+INFO  2018-07-31 15:23:23,168 [4    ] Quartz.Core.SchedulerSignalerImpl - Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+INFO  2018-07-31 15:23:23,178 [4    ] Quartz.Core.QuartzScheduler - Quartz Scheduler v.3.0.6.0 created.
+INFO  2018-07-31 15:23:23,183 [4    ] Quartz.Simpl.RAMJobStore - RAMJobStore initialized.
+INFO  2018-07-31 15:23:23,219 [4    ] Quartz.Simpl.RemotingSchedulerExporter - Remoting is allowing remote calls
+INFO  2018-07-31 15:23:23,220 [4    ] Quartz.Simpl.RemotingSchedulerExporter - Registering remoting channel of type 'System.Runtime.Remoting.Channels.Tcp.TcpChannel' to port (8008) with name (http)
+INFO  2018-07-31 15:23:23,221 [4    ] Quartz.Simpl.RemotingSchedulerExporter - Remoting channel registered successfully
+INFO  2018-07-31 15:23:23,223 [4    ] Quartz.Simpl.RemotingSchedulerExporter - Successfully marshalled remotable scheduler under name 'QuartzScheduler'
+INFO  2018-07-31 15:23:23,232 [4    ] Quartz.Core.QuartzScheduler - Scheduler meta-data: Quartz Scheduler (v3.0.6.0) '吉利后台作业监控系统' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - access via remote invocation.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 5 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+INFO  2018-07-31 15:23:23,234 [4    ] Quartz.Impl.StdSchedulerFactory - Quartz scheduler '吉利后台作业监控系统' initialized
+INFO  2018-07-31 15:23:23,234 [4    ] Quartz.Impl.StdSchedulerFactory - Quartz scheduler version: 3.0.6.0
+INFO  2018-07-31 15:23:23,259 [4    ] Quartz.Core.QuartzScheduler - Scheduler 吉利后台作业监控系统_$_NON_CLUSTERED started.
+INFO  2018-07-31 15:23:30,199 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:23:30
+
+INFO  2018-07-31 15:23:40,009 [6    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:23:40
+INFO  2018-07-31 15:24:00,022 [6    ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:24:00
+
+INFO  2018-07-31 15:24:00,034 [6    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:24:00
+INFO  2018-07-31 15:24:20,011 [6    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:24:20
+INFO  2018-07-31 15:24:30,021 [3    ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:24:30
+
+INFO  2018-07-31 15:24:40,010 [3    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:24:40
+INFO  2018-07-31 15:25:00,009 [6    ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:25:00
+
+INFO  2018-07-31 15:25:00,017 [11   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:25:00
+INFO  2018-07-31 15:25:20,080 [13   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:25:20
+INFO  2018-07-31 15:25:30,010 [13   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:25:30
+
+INFO  2018-07-31 15:25:40,012 [13   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:25:40
+INFO  2018-07-31 15:26:00,013 [17   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:26:00
+
+INFO  2018-07-31 15:26:00,027 [17   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:26:00
+INFO  2018-07-31 15:26:20,015 [17   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:26:20
+INFO  2018-07-31 15:26:30,014 [13   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:26:30
+
+INFO  2018-07-31 15:26:40,014 [14   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:26:40
+INFO  2018-07-31 15:27:00,012 [17   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:27:00
+
+INFO  2018-07-31 15:27:00,033 [17   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:27:00
+INFO  2018-07-31 15:27:20,015 [14   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:27:20
+INFO  2018-07-31 15:27:30,011 [13   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:27:30
+
+INFO  2018-07-31 15:27:40,018 [13   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:27:40
+INFO  2018-07-31 15:28:00,010 [13   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:28:00
+
+INFO  2018-07-31 15:28:00,115 [14   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:28:00
+INFO  2018-07-31 15:28:20,007 [14   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:28:20
+INFO  2018-07-31 15:28:30,022 [14   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:28:30
+
+INFO  2018-07-31 15:28:40,014 [17   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:28:40
+INFO  2018-07-31 15:29:00,016 [14   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:29:00
+
+INFO  2018-07-31 15:29:00,052 [14   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:29:00
+INFO  2018-07-31 15:29:20,013 [14   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:29:20
+INFO  2018-07-31 15:29:30,012 [13   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:29:30
+
+INFO  2018-07-31 15:29:40,011 [13   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:29:40
+INFO  2018-07-31 15:30:00,007 [14   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:30:00
+
+INFO  2018-07-31 15:30:00,015 [14   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:30:00
+INFO  2018-07-31 15:30:20,014 [17   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:30:20
+INFO  2018-07-31 15:30:30,015 [17   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:30:30
+
+INFO  2018-07-31 15:30:40,013 [20   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:30:40
+INFO  2018-07-31 15:31:00,062 [17   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:31:00
+
+INFO  2018-07-31 15:31:00,064 [17   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:31:00
+INFO  2018-07-31 15:31:20,012 [17   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:31:20
+INFO  2018-07-31 15:31:30,012 [17   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:31:30
+
+INFO  2018-07-31 15:31:40,012 [13   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:31:40
+INFO  2018-07-31 15:32:00,033 [17   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:32:00
+
+INFO  2018-07-31 15:32:00,044 [10   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:32:00
+INFO  2018-07-31 15:32:20,020 [17   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:32:20
+INFO  2018-07-31 15:32:30,011 [17   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:32:30
+
+INFO  2018-07-31 15:32:40,011 [8    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:32:40
+INFO  2018-07-31 15:33:00,023 [8    ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:33:00
+
+INFO  2018-07-31 15:33:00,052 [16   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:33:00
+INFO  2018-07-31 15:33:20,011 [8    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:33:20
+INFO  2018-07-31 15:33:30,013 [8    ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:33:30
+
+INFO  2018-07-31 15:33:40,014 [17   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:33:40
+INFO  2018-07-31 15:34:00,010 [17   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:34:00
+
+INFO  2018-07-31 15:34:00,124 [16   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:34:00
+INFO  2018-07-31 15:34:20,014 [16   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:34:20
+INFO  2018-07-31 15:34:30,004 [8    ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:34:30
+
+INFO  2018-07-31 15:34:40,010 [17   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:34:40
+INFO  2018-07-31 15:35:00,171 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:35:00
+
+INFO  2018-07-31 15:35:00,174 [11   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:35:00
+INFO  2018-07-31 15:35:20,006 [11   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:35:20
+INFO  2018-07-31 15:35:30,012 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:35:30
+
+INFO  2018-07-31 15:35:40,018 [11   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:35:40
+INFO  2018-07-31 15:36:00,013 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:36:00
+
+INFO  2018-07-31 15:36:00,047 [11   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:36:00
+INFO  2018-07-31 15:36:20,010 [9    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:36:20
+INFO  2018-07-31 15:36:30,012 [9    ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:36:30
+
+INFO  2018-07-31 15:36:40,009 [9    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:36:40
+INFO  2018-07-31 15:37:00,011 [18   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:37:00
+
+INFO  2018-07-31 15:37:00,025 [9    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:37:00
+INFO  2018-07-31 15:37:20,022 [9    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:37:20
+INFO  2018-07-31 15:37:30,007 [9    ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:37:30
+
+INFO  2018-07-31 15:37:40,007 [23   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:37:40
+INFO  2018-07-31 15:38:00,004 [23   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:38:00
+
+INFO  2018-07-31 15:38:00,023 [23   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:38:00
+INFO  2018-07-31 15:38:20,006 [18   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:38:20
+INFO  2018-07-31 15:38:30,018 [23   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:38:30
+
+INFO  2018-07-31 15:38:40,015 [18   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:38:40
+INFO  2018-07-31 15:39:00,130 [23   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:39:00
+
+INFO  2018-07-31 15:39:00,132 [23   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:39:00
+INFO  2018-07-31 15:39:20,007 [6    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:39:20
+INFO  2018-07-31 15:39:30,006 [6    ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:39:30
+
+INFO  2018-07-31 15:39:40,022 [23   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:39:40
+INFO  2018-07-31 15:40:00,021 [6    ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:40:00
+
+INFO  2018-07-31 15:40:00,055 [17   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:40:00
+INFO  2018-07-31 15:40:20,020 [17   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:40:20
+INFO  2018-07-31 15:40:30,008 [17   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:40:30
+
+INFO  2018-07-31 15:40:40,013 [17   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:40:40
+INFO  2018-07-31 15:41:00,026 [14   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:41:00
+
+INFO  2018-07-31 15:41:00,031 [17   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:41:00
+INFO  2018-07-31 15:41:20,012 [14   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:41:20
+INFO  2018-07-31 15:41:30,015 [14   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:41:30
+
+INFO  2018-07-31 15:41:40,014 [17   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:41:40
+INFO  2018-07-31 15:42:00,124 [17   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:42:00
+
+INFO  2018-07-31 15:42:00,134 [20   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:42:00
+INFO  2018-07-31 15:42:20,016 [20   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:42:20
+INFO  2018-07-31 15:42:30,014 [17   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:42:30
+
+INFO  2018-07-31 15:42:40,014 [20   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:42:40
+INFO  2018-07-31 15:43:00,017 [17   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:43:00
+
+INFO  2018-07-31 15:43:00,034 [14   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:43:00
+INFO  2018-07-31 15:43:20,013 [17   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:43:20
+INFO  2018-07-31 15:43:30,011 [17   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:43:30
+
+INFO  2018-07-31 15:43:40,012 [4    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:43:40
+INFO  2018-07-31 15:44:00,015 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:44:00
+
+INFO  2018-07-31 15:44:00,063 [14   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:44:00
+INFO  2018-07-31 15:44:20,026 [17   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:44:20
+INFO  2018-07-31 15:44:30,011 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:44:30
+
+INFO  2018-07-31 15:44:40,006 [20   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:44:40
+INFO  2018-07-31 15:45:00,055 [21   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:45:00
+
+INFO  2018-07-31 15:45:00,057 [12   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:45:00
+INFO  2018-07-31 15:45:20,033 [21   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:45:20
+INFO  2018-07-31 15:45:30,013 [21   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:45:30
+
+INFO  2018-07-31 15:45:40,013 [12   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:45:40
+INFO  2018-07-31 15:46:00,011 [21   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:46:00
+
+INFO  2018-07-31 15:46:00,021 [17   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:46:00
+INFO  2018-07-31 15:46:20,019 [12   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:46:20
+INFO  2018-07-31 15:46:30,014 [12   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:46:30
+
+INFO  2018-07-31 15:46:40,010 [12   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:46:40
+INFO  2018-07-31 15:47:00,007 [12   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:47:00
+
+INFO  2018-07-31 15:47:00,025 [17   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:47:00
+INFO  2018-07-31 15:47:20,013 [21   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:47:20
+INFO  2018-07-31 15:47:30,010 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:47:30
+
+INFO  2018-07-31 15:47:40,008 [11   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:47:40
+INFO  2018-07-31 15:48:00,018 [17   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:48:00
+
+INFO  2018-07-31 15:48:00,038 [8    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:48:00
+INFO  2018-07-31 15:48:20,018 [8    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:48:20
+INFO  2018-07-31 15:48:30,014 [8    ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:48:30
+
+INFO  2018-07-31 15:48:40,007 [8    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:48:40
+INFO  2018-07-31 15:49:00,012 [8    ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:49:00
+
+INFO  2018-07-31 15:49:00,040 [8    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:49:00
+INFO  2018-07-31 15:49:20,018 [8    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:49:20
+INFO  2018-07-31 15:49:30,008 [8    ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:49:30
+
+INFO  2018-07-31 15:49:40,014 [9    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:49:40
+INFO  2018-07-31 15:50:00,010 [13   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:50:00
+
+INFO  2018-07-31 15:50:00,027 [8    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:50:00
+INFO  2018-07-31 15:50:20,012 [8    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:50:20
+INFO  2018-07-31 15:50:30,014 [13   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:50:30
+
+INFO  2018-07-31 15:50:40,007 [8    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:50:40
+INFO  2018-07-31 15:51:00,025 [22   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:51:00
+
+INFO  2018-07-31 15:51:00,050 [13   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:51:00
+INFO  2018-07-31 15:51:20,015 [22   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:51:20
+INFO  2018-07-31 15:51:30,014 [22   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:51:30
+
+INFO  2018-07-31 15:51:40,011 [11   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:51:40
+INFO  2018-07-31 15:52:00,016 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:52:00
+
+INFO  2018-07-31 15:52:00,034 [13   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:52:00
+INFO  2018-07-31 15:52:20,020 [22   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:52:20
+INFO  2018-07-31 15:52:30,011 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:52:30
+
+INFO  2018-07-31 15:52:40,015 [22   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:52:40
+INFO  2018-07-31 15:53:00,014 [22   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:53:00
+
+INFO  2018-07-31 15:53:00,043 [19   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:53:00
+INFO  2018-07-31 15:53:20,014 [11   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:53:20
+INFO  2018-07-31 15:53:30,034 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:53:30
+
+INFO  2018-07-31 15:53:40,020 [11   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:53:40
+INFO  2018-07-31 15:54:00,009 [22   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:54:00
+
+INFO  2018-07-31 15:54:00,035 [11   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:54:00
+INFO  2018-07-31 15:54:20,014 [13   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:54:20
+INFO  2018-07-31 15:54:30,010 [13   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:54:30
+
+INFO  2018-07-31 15:54:40,011 [11   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:54:40
+INFO  2018-07-31 15:55:00,012 [19   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:55:00
+
+INFO  2018-07-31 15:55:00,041 [11   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:55:00
+INFO  2018-07-31 15:55:20,010 [13   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:55:20
+INFO  2018-07-31 15:55:30,008 [11   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:55:30
+
+INFO  2018-07-31 15:55:40,011 [22   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:55:40
+INFO  2018-07-31 15:56:00,039 [19   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:56:00
+
+INFO  2018-07-31 15:56:00,041 [11   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:56:00
+INFO  2018-07-31 15:56:20,032 [11   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:56:20
+INFO  2018-07-31 15:56:30,007 [18   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:56:30
+
+INFO  2018-07-31 15:56:40,013 [18   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:56:40
+INFO  2018-07-31 15:57:00,010 [18   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:57:00
+
+INFO  2018-07-31 15:57:00,043 [11   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:57:00
+INFO  2018-07-31 15:57:20,006 [19   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:57:20
+INFO  2018-07-31 15:57:30,010 [19   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:57:30
+
+INFO  2018-07-31 15:57:40,007 [19   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:57:40
+INFO  2018-07-31 15:58:00,014 [19   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:58:00
+
+INFO  2018-07-31 15:58:00,067 [19   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:58:00
+INFO  2018-07-31 15:58:20,021 [19   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:58:20
+INFO  2018-07-31 15:58:30,011 [19   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:58:30
+
+INFO  2018-07-31 15:58:40,004 [20   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:58:40
+INFO  2018-07-31 15:59:00,017 [19   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:59:00
+
+INFO  2018-07-31 15:59:00,025 [19   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:59:00
+INFO  2018-07-31 15:59:20,013 [17   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:59:20
+INFO  2018-07-31 15:59:30,013 [17   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 15:59:30
+
+INFO  2018-07-31 15:59:40,010 [4    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 15:59:40
+INFO  2018-07-31 16:00:00,017 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 16:00:00
+
+INFO  2018-07-31 16:00:00,035 [4    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 16:00:00
+INFO  2018-07-31 16:00:20,006 [4    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 16:00:20
+INFO  2018-07-31 16:00:30,007 [17   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 16:00:30
+
+INFO  2018-07-31 16:00:40,006 [10   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 16:00:40
+INFO  2018-07-31 16:01:00,018 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 16:01:00
+
+INFO  2018-07-31 16:01:00,025 [4    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 16:01:00
+INFO  2018-07-31 16:01:20,006 [4    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 16:01:20
+INFO  2018-07-31 16:01:30,009 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 16:01:30
+
+INFO  2018-07-31 16:01:40,008 [21   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 16:01:40
+INFO  2018-07-31 16:02:00,063 [4    ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 16:02:00
+
+INFO  2018-07-31 16:02:00,065 [4    ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 16:02:00
+INFO  2018-07-31 16:02:20,016 [21   ] TestQuarzNet.Service.Log.LogJob - 拉取日志2018/7/31 16:02:20
+INFO  2018-07-31 16:02:30,013 [21   ] TestQuarzNet.Service.Time.TimeJob - 2018/7/31 16:02:30
+
+INFO  2018-07-31 16:02:36,820 [21   ] TestQuarzNetWin.QuarzNetSvr - OnOnStop()
+INFO  2018-07-31 16:02:36,842 [21   ] Quartz.Core.QuartzScheduler - Scheduler 吉利后台作业监控系统_$_NON_CLUSTERED shutting down.
+INFO  2018-07-31 16:02:36,854 [21   ] Quartz.Core.QuartzScheduler - Scheduler 吉利后台作业监控系统_$_NON_CLUSTERED paused.
+INFO  2018-07-31 16:02:36,899 [4    ] Quartz.Simpl.RemotingSchedulerExporter - Successfully disconnected remotable scheduler
