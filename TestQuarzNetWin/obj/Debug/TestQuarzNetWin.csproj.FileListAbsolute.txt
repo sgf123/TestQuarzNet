@@ -17,5 +17,4 @@ E:\git\QuarzNet\TestQuarzNet\TestQuarzNetWin\obj\Debug\TestQuarzNetWin.exe
 E:\git\QuarzNet\TestQuarzNet\TestQuarzNetWin\obj\Debug\TestQuarzNetWin.pdb
 E:\git\QuarzNet\TestQuarzNet\TestQuarzNetWin\bin\Debug\quartz.config
 E:\git\QuarzNet\TestQuarzNet\TestQuarzNetWin\bin\Debug\quartz_jobs.xml
-E:\git\QuarzNet\TestQuarzNet\TestQuarzNetWin\bin\Debug\Common.Logging.dll
 E:\git\QuarzNet\TestQuarzNet\TestQuarzNetWin\bin\Debug\TestQuarzNet.Service.dll.config
