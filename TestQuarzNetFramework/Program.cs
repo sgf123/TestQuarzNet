@@ -56,7 +56,7 @@ namespace TestQuarzNetFramework
             Environment.ExitCode = exitCode;
 
         }
-        //测试使用配置文件方式 
+        //测试使用配置文件方式  
         static void Main(string[] args)
         {
             var rc = HostFactory.Run(x =>
